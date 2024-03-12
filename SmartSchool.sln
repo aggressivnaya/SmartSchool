@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSchool", "SmartSchool.csproj", "{A8948F66-03E1-4F7B-A79F-1022F0E8074F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{ED1156F5-2E67-47AE-A138-64454F2987DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModell", "ViewModel\ViewModell.csproj", "{9F662A02-D885-48DB-BAEB-15200E417845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8948F66-03E1-4F7B-A79F-1022F0E8074F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8948F66-03E1-4F7B-A79F-1022F0E8074F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8948F66-03E1-4F7B-A79F-1022F0E8074F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8948F66-03E1-4F7B-A79F-1022F0E8074F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1156F5-2E67-47AE-A138-64454F2987DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1156F5-2E67-47AE-A138-64454F2987DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1156F5-2E67-47AE-A138-64454F2987DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1156F5-2E67-47AE-A138-64454F2987DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F662A02-D885-48DB-BAEB-15200E417845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F662A02-D885-48DB-BAEB-15200E417845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F662A02-D885-48DB-BAEB-15200E417845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F662A02-D885-48DB-BAEB-15200E417845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D25D354-831B-415E-89A7-6EE3692842C9}
+	EndGlobalSection
+EndGlobal
