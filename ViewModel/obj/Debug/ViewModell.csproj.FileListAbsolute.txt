@@ -1,0 +1,11 @@
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\obj\Debug\ViewModell.csproj.AssemblyReference.cache
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\obj\Debug\ViewModell.csproj.CoreCompileInputs.cache
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\bin\Debug\smartschoolproj.accdb
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\bin\Debug\ViewModell.dll
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\bin\Debug\ViewModell.pdb
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\bin\Debug\Model.dll
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\bin\Debug\Model.pdb
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\obj\Debug\ViewModell.csproj.CopyComplete
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\obj\Debug\ViewModell.dll
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\obj\Debug\ViewModell.pdb
+C:\Users\Magshimim\source\repos\SmartSchool\ViewModel\bin\Debug\HamburgerMenu.dll
